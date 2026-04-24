@@ -19,6 +19,9 @@ Checking my analysis skills with this summer season related things, it will also
 </p>
 
 ---
+## ⭐ Project Highlight
+A real-world summer analysis project combining weather data, AI predictions, and business insights.
+
 
 ## 🌡️ About This Project
 
