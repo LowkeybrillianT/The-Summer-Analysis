@@ -119,6 +119,64 @@ I will be using AI tools like:
 
 ---
 
+## 📂 Project Structure
+
+summer-weather-analysis/
+│
+├── README.md
+├── data/
+│ └── day2-weather-data.md
+│
+├── analysis/
+│ ├── day1-weather-observation.md
+│ ├── day1-market-trends.md
+│ ├── day1-ai-prediction.md
+│ ├── day1-ai-vs-reality.md
+│ ├── day2-impact-analysis.md
+│ ├── day3-pattern-analysis.md
+│ └── day3-problem-identification.md
+│
+├── insights/
+│ ├── day2-business-recommendations.md
+│ ├── day3-solutions-precautions.md
+│ ├── day4-executive-summary.md
+│ └── final-conclusion.md
+│
+└── assets/
+└── day2-temperature-graph.md
+
+
+---
+
+## 🚀 Project Status
+
+✅ Day 1 – Observation & Market Trends  
+✅ Day 2 – Data & Impact Analysis  
+✅ Day 3 – Patterns, Problems & Solutions  
+✅ Day 4 – Summary & Conclusion  
+
+---
+
+## 🎯 What This Project Demonstrates
+
+- 📊 Data Analysis Skills  
+- 🧠 Critical Thinking  
+- 🤖 Use of AI in Real-World Context  
+- 💼 Business Understanding  
+- 🌍 Practical Problem Solving  
+
+---
+
+## ⭐ Future Improvements
+
+- Add real-time weather API integration 🌦️  
+- Create visual charts and dashboards 📊  
+- Expand analysis to multiple locations 🌍  
+- Build a web-based dashboard  
+
+---
+
+
 ## 🔗 Connect With Me
 
 <p align="center">
